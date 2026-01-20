@@ -1,4 +1,8 @@
-<img width="418" height="250" alt="Form1" src="https://github.com/user-attachments/assets/e62bab94-5fa5-4c6c-97e1-3e4947fef1e6" /># Movie-Ticket-Booking-System-ADBMS
+<img width="418" height="250" alt="Form1" src="https://github.com/user-attachments/assets/e62bab94-5fa5-4c6c-97e1-3e4947fef1e6" />
+
+
+
+Movie-Ticket-Booking-System-ADBMS
 ADBMS course project – Movie Ticket Booking System using database concepts.
 
  Movie Ticket Booking System (ADBMS)
@@ -43,7 +47,7 @@ Tools: Visual Studio, SQL Server Management Studio
 - Constraints
 - Stored Procedures
 
----
+
 
  Database Tables (Example)
 - Movies
