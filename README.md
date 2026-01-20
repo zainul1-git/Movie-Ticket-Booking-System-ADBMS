@@ -51,9 +51,13 @@ Tools: Visual Studio, SQL Server Management Studio
 - Seats
 - Bookings
 
----
- Screenshots
 
+
+
+<img width="555" height="322" alt="Form2" src="https://github.com/user-attachments/assets/4ff592f6-3c44-48f5-8904-d7b5c6eeaa04" />
+<img width="599" height="314" alt="Form3" src="https://github.com/user-attachments/assets/1c454f65-9c6a-46c0-bbd6-aa5f5b1bcfa7" />
+<img width="706" height="392" alt="Form4" src="https://github.com/user-attachments/assets/3fb73b4e-7795-41bc-9c90-530d8c80a8ca" />
+<img width="420" height="268" alt="Form5" src="https://github.com/user-attachments/assets/64eb7e05-a6ec-4996-a9ed-cba70da0cdf6" />
 
 
 
